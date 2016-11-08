@@ -1,16 +1,15 @@
-# Project Name
+# One Up Elder Care
 
-> Spooky Celluloid
+
 
 ## Team
 
-  - __Product Owner__: Tim Zeng
-  - __Scrum Master__: Miles Smith
-  - __Development Team Members__: Robin Kuehn, Jesse Mavi
+  - __Product Owner__: Robin Kuehn
+  - __Scrum Master__: Tim Zeng
+  - __Development Team Members__: Miles Smith, Jesse Mavi
 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
@@ -18,9 +17,6 @@
 1. [Team](#team)
 1. [Contributing](#contributing)
 
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
@@ -28,35 +24,19 @@
 - MySQL
 - NPM
 
-## Development
+
 
 ### Installing Dependencies
 
-From within the client directory:<br />
+From within the client directory:
 `npm install`
 
-From within the server directory:<br />
+From within the server directory:
 `npm install`
 
-### Starting the App
-
-Start MySql database:<br />
-`mysql.server start`<br />
-`mysql -u root -p < PATH_TO_REPO/server/schema.sql`
-
-Start Server:
-From within the server directory:<br />
-`npm start`
-
-Start Client:
-From within the client directory:<br />
-`npm start`
 
 ### Roadmap
 
 View the project roadmap [here](https://github.com/spookyCelluloid/spookyCelluloid/issues?q=is%3Aopen+is%3Aissue)
 
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
